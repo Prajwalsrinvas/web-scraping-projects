@@ -8,4 +8,4 @@ Scraping [this site](https://www.worldometers.info/world-population/) by extract
 
 ## Table data stored in csv format
 
-![population information]("csv.png")
+![](csv.png)
