@@ -2,8 +2,8 @@
 
 Scraping [this site](https://www.airbnb.co.in/s/bangalore/homes) to:
 - Search for a given location for homes in the airbnb site.
-- Scraping the name,type,size,amenities,price,ratings and number of reviews from multiple pages using BeautifulSoup.
-- Storing all the scraped data in a csv file for easy access.
+- Scraping the name, type, size, amenities, price, ratings, number of reviews and link of each stay from multiple pages using BeautifulSoup.
+- Storing all the scraped data in a csv file for easy access using pandas.
 
 ## Webpage
 
