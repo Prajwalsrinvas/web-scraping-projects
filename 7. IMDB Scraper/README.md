@@ -1,5 +1,7 @@
 # Web Scraping from IMDB to find details of top 100 movies
 
+### [Video Demonstration](https://streamable.com/e/yrzzss)
+
 Using selenium automation to:
 
 1. Go to google.com.
@@ -19,4 +21,4 @@ Using selenium automation to:
 - For some movies, some data will be unavailable. So in such cases, we ignore that particular movie and move on to scrape data from the next movie.
 - This could have also been done using BeautifulSoup (and might even be faster!), but I did it using selenium just as a learning experiment.
 
-### [Video Demonstration](https://streamable.com/e/yrzzss)
+
