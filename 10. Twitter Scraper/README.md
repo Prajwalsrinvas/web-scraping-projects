@@ -17,8 +17,9 @@ Using selenium automation to:
 ### Note:
 - Twitter does not have a 'next page' button or a 'see more' button that loads up more tweets.
 - Instead it uses infinite scrolling i.e the more you scroll down the page, the more tweets are displayed (untill all tweets are shown).
-- But unlike other websites which use infinite scrolling, once you scroll down in twitter, the previous data is replaced by the new data.
+- But unlike other websites which use infinite scrolling, once you scroll down in twitter, the previous tweets data is replaced by the new tweets data.
 - In other sites, both old data and new data is available even if you scroll all the way down the page.
-- We include only tweets and not retweets.
+- Only tweets are included and retweets are skipped.
+- The twitter API could have also been used (would be easier and faster too!) but I used selenium and BeautifulSoup instead, just as a learning experiment.
 
 
