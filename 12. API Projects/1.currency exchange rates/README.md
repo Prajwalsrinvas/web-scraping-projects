@@ -1,4 +1,4 @@
-# Currency exchange rates API
+# Currency exchange rates API 💰
 
 - Learned how to interact with a simple [currency exchange rates API](https://exchangeratesapi.io/) using python
 - Explored different types of endpoints and responses of the API
