@@ -1,0 +1,72 @@
+category,type,setup,delivery,flags,id,safe,lang,joke
+Christmas,twopart,What's Santa's favourite type of music?,Wrap!,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",247,True,en,
+Christmas,twopart,What kind of motorbike does Santa ride?,A Holly Davidson!,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",244,True,en,
+Christmas,twopart,What do elves post on Social Media?,Elf-ies!,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",249,True,en,
+Christmas,twopart,Why does Santa go down the chimney?,Because it soots him!,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",253,True,en,
+Christmas,twopart,Why does Santa go down the chimney?,Because it soots him!,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",253,True,en,
+Christmas,twopart,Why did Santa's helper see the doctor?,"Because he had a low ""elf"" esteem!","{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",243,True,en,
+Christmas,twopart,Why couldn't the skeleton go to the Christmas party?,Because he had no body to go with!,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",252,True,en,
+Christmas,twopart,Who hides in the bakery at Christmas?,A mince spy!,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",250,True,en,
+Christmas,twopart,Who is Santa's favourite singer?,Elf-is Presley!,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",246,True,en,
+Christmas,twopart,Why does Santa have three gardens?,So he can 'ho ho ho'!,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",242,True,en,
+Christmas,twopart,What says Oh Oh Oh?,Santa walking backwards!,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",245,True,en,
+Misc,twopart,How do construction workers party?,They raise the roof.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",217,True,en,
+Misc,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",288,True,en,"A perfectionist walked into a bar... apparently, the bar was not set high enough."
+Misc,twopart,This morning I accidentally made my coffee with Red Bull instead of water.,I was already on the highway when I noticed I forgot my car at home.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",146,True,en,
+Misc,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",73,True,en,"A neutron walks into a bar and asks for a price on a drink.
+The barkeeper says: ""For you... no charge!"""
+Misc,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",257,True,en,"My wife and I have reached the difficult decision that we do not want children.
+If anybody does, please just send me your contact details and we can drop them off tomorrow."
+Misc,twopart,"My mother said, ""You won't amount to anything because you always procrastinate.""","I said, ""Oh yeah... Just you wait.""","{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",94,True,en,
+Misc,twopart,I WRITE MY JOKES IN CAPITALS.,THIS ONE WAS WRITTEN IN PARIS.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",78,True,en,
+Misc,twopart,What is the least spoken language in the world?,Sign language.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",76,True,en,
+Misc,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",197,True,en,Schrödinger's cat walks into a bar and doesn't.
+Misc,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",273,True,en,My husband and I were happy for 20 years. And then we met.
+Misc,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",201,True,en,"My wife is really mad at the fact that I have no sense of direction.
+So I packed up my stuff and right."
+Programming,twopart,Why do programmers wear glasses?,Because they need to C#,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",50,True,en,
+Programming,twopart,Why is Linux safe?,Hackers peak through Windows only.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",260,True,en,
+Programming,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",44,True,en,"Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday."
+Programming,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",33,True,en,"Today I learned that changing random stuff until your program works is ""hacky"" and a ""bad coding practice"" but if you do it fast enough it's ""Machine Learning"" and pays 4x your current salary."
+Programming,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",34,True,en,"Eight bytes walk into a bar.
+The bartender asks, ""Can I get you anything?""
+""Yeah,"" reply the bytes.
+""Make us a double."""
+Programming,twopart,Why does no one like SQLrillex?,He keeps dropping the database.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",13,True,en,
+Programming,twopart,Why do Java programmers hate communism?,They don't want to live in a classless society.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",53,True,en,
+Programming,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",5,True,en,"A SQL statement walks into a bar and sees two tables.
+It approaches, and asks ""may I join you?"""
+Programming,twopart,Why did the programmer jump on the table?,Because debug was on his screen.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",214,True,en,
+Programming,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",39,True,en,The generation of random numbers is too important to be left to chance.
+Programming,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",34,True,en,"Eight bytes walk into a bar.
+The bartender asks, ""Can I get you anything?""
+""Yeah,"" reply the bytes.
+""Make us a double."""
+Programming,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",43,True,en,"How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5."
+Programming,single,,,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",41,True,en,"Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you."
+Pun,twopart,"Why did the chicken cross the road, roll in the mud and cross the road again?",He was a dirty double-crosser!,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",209,True,en,
+Pun,twopart,Two guys walked into a bar.,The third guy ducked.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",168,True,en,
+Pun,twopart,What do you call a witch at the beach?,A Sandwich.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",176,True,en,
+Pun,twopart,"The gas Argon walks into a bar.
+The barkeeper says ""What would you like to drink?""",But Argon doesn't react.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",148,True,en,
+Pun,twopart,How much did your chimney cost?,"Nothing, it was on the house.","{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",231,True,en,
+Pun,twopart,What do you call 4 Mexicans in quicksand?,Quatro Sinko.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",177,True,en,
+Pun,twopart,I hate Russian matryoshka dolls.,They're so full of themselves.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",87,True,en,
+Pun,twopart,What did the customer say to the waiter?,I'm all fed up with your service.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",190,True,en,
+Pun,twopart,"I was feeling depressed, my wife put her hand on my back and said ""Earth.""",It meant the world to me.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",282,True,en,
+Pun,twopart,Did you hear about the claustrophobic astronaut?,He just needed a little space.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",276,True,en,
+Pun,twopart,"My employer came running to me and said, ""I was looking for you all day! Where the hell have you been?""","I replied, ""Good employees are hard to find.""","{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",283,True,en,
+Pun,twopart,"To prove he was right, the flat-earther walked to the end of the Earth.",He eventually came around.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",280,True,en,
+Pun,twopart,Why did the banana go see a doctor?,Because it wasn't peeling well.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",256,True,en,
+Pun,twopart,A Roman walks into a bar and raises 2 fingers and says to the bartender...,"""Five beers, please.""","{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",286,True,en,
+Pun,twopart,Thank you student loans for getting me through college.,I don't think I'll ever be able to repay you.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",59,True,en,
+Spooky,twopart,Why didn't the skeleton go for prom?,Because it had nobody.,"{'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}",183,True,en,

@@ -1,0 +1,37 @@
+Joke 1: How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
+
+Joke 2: A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
+
+Joke 3: Setup: Why do Java programmers hate communism?
+Delivery: They don't want to live in a classless society.
+
+Joke 4: Setup: Why does no one like SQLrillex?
+Delivery: He keeps dropping the database.
+
+Joke 5: Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
+
+Joke 6: Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
+
+Joke 7: Setup: Why do programmers wear glasses?
+Delivery: Because they need to C#
+
+Joke 8: Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
+
+Joke 9: Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
+
+Joke 10: Setup: Why is Linux safe?
+Delivery: Hackers peak through Windows only.
+
